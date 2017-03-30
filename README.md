@@ -1,5 +1,7 @@
 # R_version_benchmarks
 
+本次Performance Benchmarks主要综合了[微软的测试代码](https://github.com/andrie/version.compare)和[Julia的测试代码](https://github.com/JuliaLang/julia/blob/master/test/perf/micro/perf.R)，并且新增了dataframe和regression的测试。测试包采用的是microbenchmark。
+
 microbenchmark.R是测试代码。  
 visualization.R是测试结果的分析。
 
