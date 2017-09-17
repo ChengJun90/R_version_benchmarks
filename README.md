@@ -9,3 +9,5 @@ visualization.R是测试结果的分析。
 - Microsoft R Open 3.3.2 Using the Intel MKL for parallel mathematical computing(using 2 cores)
 - R version 3.3.3 (2017-03-06) 
 - R version 3.4.0 alpha (2017-03-28 r72427)
+
+测试结果见：[R 3.4.0 JIT加速度](https://zhuanlan.zhihu.com/p/26089326测试结果见)
